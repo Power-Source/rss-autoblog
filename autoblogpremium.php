@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: PS RSS AutoBlog
-Version: 4.1.7
-Plugin URI: https://cp-psource.github.io/rss-autoblog/
-Description: Dieses Plugin veröffentlicht automatisch Inhalte aus RSS-Feeds in verschiedenen Blogs auf Deiner WordPress Seite oder in Deiner Multisite...
+Version: 1.0.0
+Plugin URI: https://power-source.github.io/rss-autoblog/
+Description: Dieses Plugin veröffentlicht automatisch Inhalte aus RSS-Feeds in verschiedenen Blogs auf Deiner WordPress Seite oder in Deiner Multisite.
 Author: DerNerd
 Author URI: https://nerdservice.eimen.net/
 Text Domain: autoblogtext
