@@ -1,0 +1,1460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RSS AutoBlog\n"
+"POT-Creation-Date: 2023-10-12 19:42+0200\n"
+"PO-Revision-Date: 2023-10-12 19:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: autoblogpremium.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: psource/psource-plugin-update/vendor\n"
+
+#: autoblogincludes/addons/appendtexttopost.php:61
+#, fuzzy
+msgid "Fußzeilentext posten"
+msgstr "Testo del piè di pagina del post"
+
+#: autoblogincludes/addons/appendtexttopost.php:62
+#, fuzzy
+msgid "Du kannst die folgenden Platzhalter in der Fußzeile verwenden:"
+msgstr "È possibile utilizzare i seguenti segnaposto nel piè di pagina:"
+
+#: autoblogincludes/addons/appendtexttopost.php:74
+#, fuzzy
+msgid "Füge Text zum Posten von Inhalten hinzu"
+msgstr "Aggiungere testo al contenuto del post"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:49
+#, fuzzy
+msgid "Importiere keine vorgestellten Bilder"
+msgstr "Non importare immagini in primo piano"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:50
+#, fuzzy
+msgid "Medien verwenden: Miniaturansicht eines Feedelements"
+msgstr "Utilizzare i media: Vista in miniatura di un elemento del feed"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:51
+#: autoblogincludes/addons/youtube.addon.php:56
+#, fuzzy
+msgid "Verwende das Basis-Tag eines Feed-Elements"
+msgstr "Utilizzare il tag di base di un elemento di alimentazione"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:52
+#, fuzzy
+msgid "Suche das erste Bild im Inhalt eines Feedelements"
+msgstr "Cerca la prima immagine nel contenuto di un elemento del feed"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:53
+#, fuzzy
+msgid "Suche das letzte Bild im Inhalt eines Feedelements"
+msgstr "Cerca l'ultima immagine nel contenuto di un elemento del feed"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:82
+#, fuzzy
+msgid "Wähle Standardbild"
+msgstr "Selezionare l'immagine standard"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:83
+#, fuzzy
+msgid "Lösche Bild"
+msgstr "Cancellare l'immagine"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:88
+#, fuzzy
+msgid "Empfohlenes Bild-Import"
+msgstr "Importazione di immagini consigliata"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:91
+#, fuzzy
+msgid "Wähle eine Möglichkeit zum Importieren eines ausgewählten Bildes"
+msgstr "Scegliere un modo per importare un'immagine selezionata"
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:92
+#, fuzzy
+msgid "Standard-Miniaturbild"
+msgstr "Miniatura standard"
+
+#: autoblogincludes/addons/check.feedentries.php:13
+#, fuzzy
+msgid "Feed Check"
+msgstr "Controllo alimentazione"
+
+#: autoblogincludes/addons/check.feedentries.php:24
+msgid "Ok"
+msgstr "Ok"
+
+#: autoblogincludes/addons/check.feedentries.php:25
+#, fuzzy
+msgid "Problem"
+msgstr "Problema"
+
+#: autoblogincludes/addons/disablesainitization.php:74
+#: autoblogincludes/addons/disablesainitization.php:77
+#, fuzzy
+msgid "Deaktiviere die Feedbereinigung"
+msgstr "Disattivare la pulizia del mangime"
+
+#: autoblogincludes/addons/disablesainitization.php:79
+#, fuzzy
+msgid ""
+"Deaktiviere die Bereinigung von Feed-Inhalten nur, wenn Du weisst, was Du "
+"tust, oder wenn Du Dich auf den Feed-Inhalt verlassen kannst."
+msgstr ""
+"Disattivare la pulizia del contenuto del feed solo se si sa cosa si sta "
+"facendo o se si può fare affidamento sul contenuto del feed."
+
+#: autoblogincludes/addons/feed-clearposts.php:44
+#, fuzzy, php-format
+msgid "%d Beiträge wurden gelöscht"
+msgstr "%d I messaggi sono stati cancellati"
+
+#: autoblogincludes/addons/feed-clearposts.php:80
+#, fuzzy
+msgid "Beiträge löschen"
+msgstr "Cancellare i messaggi"
+
+#: autoblogincludes/addons/feed-clearposts.php:83
+#, fuzzy
+msgid "Lösche alle von diesem Feed importierten Beiträge"
+msgstr "Eliminare tutti i messaggi importati da questo feed"
+
+#: autoblogincludes/addons/feed-clearposts.php:84
+#, fuzzy
+msgid "Aufräumen"
+msgstr "Pulire"
+
+#: autoblogincludes/addons/forcefeed.php:78
+#, fuzzy
+msgid "Erzwinge Feed"
+msgstr "Alimentazione forzata"
+
+#: autoblogincludes/addons/forcefeed.php:81
+#, fuzzy
+msgid "Aktiviere Feed erzwingen"
+msgstr "Abilitazione dell'avanzamento forzato"
+
+#: autoblogincludes/addons/originallinkinpopup.php:122
+#, fuzzy
+msgid "Möchtest Du diese Funktion für diesen Feed deaktivieren?"
+msgstr "Si desidera disattivare questa funzione per questo feed?"
+
+#: autoblogincludes/addons/originallinkinpopup.php:123
+#, fuzzy
+msgid ""
+"Domain, die Du ausschließen möchtest, getrennt nach Zeilen (ohne \"http(s)://"
+"\")"
+msgstr ""
+"Dominio che si vuole escludere, separato da righe (senza \"http(s)://\")"
+
+#: autoblogincludes/addons/originallinkinpopup.php:126
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:620
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:634
+msgid "Ja"
+msgstr "Sì"
+
+#: autoblogincludes/addons/originallinkinpopup.php:129
+#, fuzzy
+msgid "Öffne den Link im Popup"
+msgstr "Aprire il link nel pop-up"
+
+#: autoblogincludes/addons/post.formats.php:39
+#, fuzzy
+msgid "Beitragsformat für neue Beiträge"
+msgstr "Formato dei messaggi per i nuovi messaggi"
+
+#: autoblogincludes/addons/post.formats.php:53
+#, fuzzy
+msgid "Wähle das Beitrags-Format"
+msgstr "Scegliere il formato del post"
+
+#: autoblogincludes/addons/stripimages.php:72
+#, fuzzy
+msgid "Bilder entaggen"
+msgstr "Disetichettare le immagini"
+
+#: autoblogincludes/addons/stripimages.php:75
+#, fuzzy
+msgid "Bild-Tags entfernen"
+msgstr "Rimuovere i tag delle immagini"
+
+#: autoblogincludes/addons/stripimages.php:80
+#, fuzzy
+msgid "Ersetzen mit"
+msgstr "Sostituire con"
+
+#: autoblogincludes/addons/twitter.addon.php:49
+#: autoblogincludes/addons/twitter.addon.php:52
+#, fuzzy
+msgid "Tweet"
+msgstr "Tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:51
+#, fuzzy
+msgid "Tweets"
+msgstr "Tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:53
+#: autoblogincludes/addons/twitter.addon.php:54
+#, fuzzy
+msgid "Neuen Tweet hinzufügen"
+msgstr "Aggiungi un nuovo tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:55
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:66
+msgid "Bearbeiten"
+msgstr "Modifica"
+
+#: autoblogincludes/addons/twitter.addon.php:56
+#, fuzzy
+msgid "Tweet bearbeiten"
+msgstr "Modifica tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:57
+#, fuzzy
+msgid "Neuer Tweet"
+msgstr "Nuovo tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:58
+#: autoblogincludes/addons/twitter.addon.php:59
+#, fuzzy
+msgid "Tweet anzeigen"
+msgstr "Mostra tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:60
+#, fuzzy
+msgid "Tweets suchen"
+msgstr "Cerca tra i tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:61
+#, fuzzy
+msgid "Keine Tweets gefunden"
+msgstr "Nessun tweet trovato"
+
+#: autoblogincludes/addons/twitter.addon.php:62
+#, fuzzy
+msgid "Keine Tweets im Papierkorb gefunden"
+msgstr "Nessun tweet trovato nel cestino"
+
+#: autoblogincludes/addons/twitter.addon.php:63
+#, fuzzy
+msgid "Übergeordneter Tweet"
+msgstr "Genitore Tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:127
+#, fuzzy
+msgid "Aktiviere Twitter für diesen Feed"
+msgstr "Attivare Twitter per questo feed"
+
+#: autoblogincludes/addons/twitter.addon.php:129
+#, fuzzy
+msgid "Verbraucherschlüssel"
+msgstr "Chiave del consumatore"
+
+#: autoblogincludes/addons/twitter.addon.php:130
+#, fuzzy
+msgid "Verbrauchergeheimnis"
+msgstr "Riservatezza dei consumatori"
+
+#: autoblogincludes/addons/twitter.addon.php:131
+#, fuzzy
+msgid "Benutzer Anzeigename"
+msgstr "Nome utente visualizzato"
+
+#: autoblogincludes/addons/twitter.addon.php:135
+#, fuzzy
+msgid ""
+"Um den Twitter Consumer Key & Secret Key zu erhalten, besuche bitte diese "
+"URL <a target=\"_blank\" href=\"https://apps.twitter.com/\">https://apps."
+"twitter.com/</a>, neue App erstellen. <br/>Nachdem die App erstellt wurde, "
+"besuche bitte die Registerkarte API-Schlüssel. Dort findest Du die "
+"Informationen"
+msgstr ""
+"Per ottenere la Twitter Consumer Key e la Secret Key, visitate questo URL <a "
+"target=\"_blank\" href=\"https://apps.twitter.com/\">https://apps.twitter."
+"com/,</a> create new app. <br/>Dopo la creazione dell'app, visitare la "
+"scheda API Key. Lì troverete le informazioni"
+
+#: autoblogincludes/addons/twitter.addon.php:140
+#, fuzzy
+msgid "Twitter Timeline"
+msgstr "Timeline di Twitter"
+
+#: autoblogincludes/addons/twitter.addon.php:180
+#, fuzzy
+msgid "Die neuesten Tweets auf Deiner Webseite"
+msgstr "Gli ultimi tweet sul vostro sito web"
+
+#: autoblogincludes/addons/twitter.addon.php:181
+#, fuzzy
+msgid "Aktuelle Tweets"
+msgstr "Ultimi tweet"
+
+#: autoblogincludes/addons/twitter.addon.php:205
+#, fuzzy
+msgid "Kürzliche Beiträge"
+msgstr "Contributi recenti"
+
+#: autoblogincludes/addons/twitter.addon.php:220
+#, fuzzy
+msgid " um "
+msgstr " a"
+
+#: autoblogincludes/addons/twitter.addon.php:257
+#, fuzzy
+msgid "Title:"
+msgstr "Titolo:"
+
+#: autoblogincludes/addons/twitter.addon.php:262
+#, fuzzy
+msgid "Anzahl der anzuzeigenden Tweets:"
+msgstr "Numero di tweet da visualizzare:"
+
+#: autoblogincludes/addons/video.addon.php:80
+#: autoblogincludes/addons/video.addon.php:81
+#, fuzzy
+msgid "Video Services"
+msgstr "Servizi video"
+
+#: autoblogincludes/addons/youtube.addon.php:57
+#, fuzzy
+msgid "Finde das erste Youtube-Video im Inhalt eines Feed-Elements"
+msgstr ""
+"Trovare il primo video di Youtube nel contenuto di un elemento del feed"
+
+#: autoblogincludes/addons/youtube.addon.php:58
+#, fuzzy
+msgid "Finde das letzte Youtube-Video im Inhalt eines Feed-Elements"
+msgstr ""
+"Trovare l'ultimo video di Youtube nel contenuto di un elemento del feed"
+
+#: autoblogincludes/addons/youtube.addon.php:78
+#, fuzzy
+msgid "Youtube Video Importieren"
+msgstr "Importazione di video Youtube"
+
+#: autoblogincludes/addons/youtube.addon.php:81
+#, fuzzy
+msgid "Wähle eine Möglichkeit zum Importieren von Youtube-Videos"
+msgstr "Scegliere un modo per importare i video di Youtube"
+
+#: autoblogincludes/addons/youtube.addon.php:82
+#, fuzzy
+msgid "Youtube Iframe"
+msgstr "Iframe di Youtube"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:90
+msgid "Datum"
+msgstr "Data"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:91
+#, fuzzy
+msgid "Verarbeitete Feeds"
+msgstr "Mangimi trasformati"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:92
+#, fuzzy
+msgid "Importierte Artikel"
+msgstr "Articoli importati"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:93
+msgid "Fehler"
+msgstr "Errore"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:105
+#, fuzzy
+msgid "Wähle Standard-Miniaturansicht"
+msgstr "Selezionare la vista miniature standard"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:106
+#, fuzzy
+msgid "Wähle Miniaturansicht"
+msgstr "Selezionare la miniatura"
+
+#. Plugin Name of the plugin/theme
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:128
+#, fuzzy
+msgid "RSS AutoBlog"
+msgstr "RSS AutoBlog"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:133
+#, fuzzy
+msgid "RSS AutoBlog Dashboard"
+msgstr "Cruscotto RSS AutoBlog"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:134
+#, fuzzy
+msgid "Dashboard"
+msgstr "Cruscotto"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:138
+#, fuzzy
+msgid "Alle Feeds"
+msgstr "Tutti i feed"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:142
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:45
+#, fuzzy
+msgid "RSS AutoBlog Erweiterungen"
+msgstr "Estensioni RSS AutoBlog"
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:143
+#, fuzzy
+msgid "Erweiterungen"
+msgstr "Estensioni"
+
+#: autoblogincludes/classes/Autoblog/Module/Cron.php:353
+#, fuzzy
+msgid "Keine Einträge im Feed gefunden."
+msgstr "Non sono state trovate voci nel feed."
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:63
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:102
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:96
+msgid "Aktivieren"
+msgstr "Attivare"
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:64
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:103
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:85
+msgid "Deaktivieren"
+msgstr "Disattivare"
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:79
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:333
+msgid "Keine"
+msgstr "None"
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:133
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:88
+#, fuzzy
+msgid "Verarbeiten"
+msgstr "Processo"
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:134
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:105
+msgid "Löschen"
+msgstr "Cancellare"
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:303
+#, fuzzy
+msgid "Feed nicht gefunden."
+msgstr "Alimentazione non trovata."
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:68
+#, fuzzy
+msgid "Die Erweiterung(en) wurde(n) erfolgreich aktiviert."
+msgstr "Le estensioni sono state attivate con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:70
+#, fuzzy
+msgid "Die Erweiterungen wurden nicht aktiviert."
+msgstr "Le estensioni non sono state attivate."
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:76
+#, fuzzy
+msgid "Die Erweiterung(en) wurde(n) erfolgreich deaktiviert."
+msgstr "Le estensioni sono state disattivate con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:78
+#, fuzzy
+msgid "Die Erweiterungen wurden nicht deaktiviert."
+msgstr "Le estensioni non sono state disattivate."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:56
+#, fuzzy
+msgid "Autoblog Dashboard"
+msgstr "Cruscotto Autoblog"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:57
+#, fuzzy
+msgid "Protokoll exportieren"
+msgstr "Protocollo di esportazione"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:58
+#, fuzzy
+msgid "Möchtest Du wirklich die Protokollsätze löschen?"
+msgstr "Si desidera davvero eliminare i record di registro?"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:59
+#, fuzzy
+msgid "Protokoll löschen"
+msgstr "Cancellare il protocollo"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:83
+#, fuzzy
+msgid "Es wurden keine Protokolldatensätze gefunden."
+msgstr "Non sono stati trovati record di registro."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:178
+#, fuzzy
+msgid "Die Anzahl der Fehler"
+msgstr "Il numero di errori"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:208
+#, fuzzy
+msgid "Die Häufigkeit, mit der die Feeds verarbeitet wurden"
+msgstr "La frequenza con cui sono stati elaborati i feed"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:231
+#, fuzzy
+msgid "Die Menge der importierten Artikel während des Tages."
+msgstr "La quantità di articoli importati durante il giorno."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:249
+#, fuzzy
+msgid "Die Feed-URL ist ungültig und kann nicht verarbeitet werden."
+msgstr "L'URL del feed non è valido e non può essere elaborato."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:261
+#, fuzzy, php-format
+msgctxt "{Post title} wurde bereits importiert."
+msgid "%s wurde bereits importiert."
+msgstr "%s è già stato importato."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:267
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:291
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:305
+#, fuzzy
+msgid "Beitrag anzeigen"
+msgstr "Mostra il contributo"
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:273
+#, fuzzy
+msgid "Das Feedelement enthält keine angeforderten Wörter oder Tags."
+msgstr "L'elemento del feed non contiene le parole o i tag richiesti."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:278
+#, fuzzy
+msgid "Import von Feedelementen fehlgeschlagen."
+msgstr "Impossibile importare elementi di alimentazione."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:285
+#, fuzzy, php-format
+msgctxt "{Post title} wurde erfolgreich importiert."
+msgid "%s wurde erfolgreich importiert."
+msgstr "%s è stato importato con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:299
+#, fuzzy, php-format
+msgctxt "{Post title} wurde erfolgreich aktualisiert."
+msgid "%s wurde erfolgreich aktualisiert."
+msgstr "%s è stato aggiornato con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:313
+#, fuzzy, php-format
+msgid "%s Feedelement wurde importiert."
+msgid_plural "%s Feedelemente wurden importiert."
+msgstr[0] "%s L'elemento di alimentazione è stato importato."
+msgstr[1] "%s Sono stati importati elementi di alimentazione."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:320
+#, fuzzy
+msgid "Der Feed wurde übersprungen, da es zu früh ist, ihn zu verarbeiten."
+msgstr "L'alimentazione è stata saltata perché è troppo presto per elaborarla."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:325
+#, fuzzy
+msgid "Der Feed wurde übersprungen, da es zu spät ist, ihn zu verarbeiten."
+msgstr "L'alimentazione è stata saltata perché è troppo tardi per elaborarla."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:330
+#, fuzzy
+msgid ""
+"Die Feedverarbeitung wurde beendet. Es wurden keine neuen Artikel importiert."
+msgstr ""
+"L'elaborazione dei mangimi è terminata. Non sono stati importati nuovi "
+"articoli."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:378
+#, fuzzy, php-format
+msgctxt "... und wird regeneriert um {14:01:54} am {Wednesday, 25-Dec-13}."
+msgid ""
+"* Diese Seite wurde aus dem Cache entfernt und wird am %s um %s neu "
+"generiert."
+msgstr ""
+"* Questa pagina è stata rimossa dalla cache e sarà rigenerata il %s al %s."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:383
+#, fuzzy
+msgid "* Diese Seite wurde aus dem Cache entfernt."
+msgstr "* Questa pagina è stata rimossa dalla cache."
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:386
+#, fuzzy
+msgid "Generiere die Seite neu."
+msgstr "Rigenerare la pagina."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:69
+#, fuzzy
+msgid "Bearbeite automatischen Blog-Feed"
+msgstr "Modifica del feed automatico del blog"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:70
+#, fuzzy
+msgid "Erstelle automatischen Blog-Feed"
+msgstr "Creare un feed automatico per il blog"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:96
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:274
+#, fuzzy
+msgid "Feed"
+msgstr "Alimentazione"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:113
+msgid "Abbrechen"
+msgstr "Cancella"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:116
+#, fuzzy
+msgid "Feed aktualisieren"
+msgstr "Aggiornamento del feed"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:116
+#, fuzzy
+msgid "Feed erstellen"
+msgstr "Crea alimentazione"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:138
+#, fuzzy
+msgid "Feed Titel"
+msgstr "Titolo dell'alimentazione"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:142
+#, fuzzy
+msgid "Gib dem Feed einen Namen."
+msgstr "Date un nome al feed."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:147
+#, fuzzy
+msgid "Feed URL"
+msgstr "URL di alimentazione"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:151
+#, fuzzy
+msgid "Gib die Feed-URL ein."
+msgstr "Inserire l'URL del feed."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:160
+#, fuzzy
+msgid "Beiträge hinzufügen zu"
+msgstr "Aggiungere contributi a"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:170
+#, fuzzy
+msgid "Wähle einen Blog aus, zu dem der Beitrag hinzugefügt werden soll."
+msgstr "Selezionare un blog a cui aggiungere il post."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:181
+#, fuzzy
+msgid "Beitragstyp für neue Beiträge"
+msgstr "Tipo di post per i nuovi messaggi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:190
+#, fuzzy
+msgid ""
+"Wähle den Beitragstyp aus, den die importierten Beiträge im Blog haben "
+"sollen."
+msgstr ""
+"Selezionate il tipo di post che volete che i post importati abbiano sul blog."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:195
+#, fuzzy
+msgid "Standardstatus für neue Beiträge"
+msgstr "Stato predefinito per i nuovi messaggi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:204
+#, fuzzy
+msgid "Wähle den Status der importierten Beiträge im Blog aus."
+msgstr "Selezionare lo stato dei post importati nel blog."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:209
+#, fuzzy
+msgid "Lege das Datum für neue Beiträge fest"
+msgstr "Impostare la data per i nuovi messaggi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:213
+#, fuzzy
+msgid "Importdatum"
+msgstr "Data di importazione"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:215
+#, fuzzy
+msgid "Datum der ursprünglichen Beiträge"
+msgstr "Data dei contributi originali"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:217
+#, fuzzy
+msgid "Wähle das Datum aus, an dem importierte Beiträge angezeigt werden."
+msgstr "Selezionare la data di visualizzazione dei post importati."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:238
+#, fuzzy
+msgid "Autorendetails"
+msgstr "Dettagli dell'autore"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:242
+#, fuzzy
+msgid "Autor für neue Beiträge festlegen"
+msgstr "Impostare l'autore per i nuovi messaggi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:245
+#, fuzzy
+msgid "Verwende den Feed-Autor"
+msgstr "Utilizzare l'autore del feed"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:253
+#, fuzzy
+msgid ""
+"Wähle den Autor aus, den Du für die Beiträge verwenden möchtest, oder "
+"versuche, den ursprünglichen Feed-Autor zu verwenden."
+msgstr ""
+"Selezionare l'autore che si desidera utilizzare per i post o provare a "
+"utilizzare l'autore del feed originale."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:259
+#, fuzzy
+msgid "Wenn der Autor im Feed nicht lokal vorhanden ist, verwende"
+msgstr "Se l'autore non è presente localmente nel feed, usare"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:269
+#, fuzzy
+msgid ""
+"Wenn der Feed-Autor in Deinem Blog nicht vorhanden ist, verwende diesen "
+"Autor."
+msgstr ""
+"Se l'autore del feed non è disponibile sul vostro blog, utilizzate questo "
+"autore."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:298
+msgid "Taxonomien"
+msgstr "Tassonomie"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:302
+#, fuzzy
+msgid "Feedkategorien behandeln als"
+msgstr "Trattare le categorie di mangimi come"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:317
+#, fuzzy
+msgid "Füge alle hinzu, die nicht vorhanden sind."
+msgstr "Aggiungere tutti quelli che non sono presenti."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:319
+#, fuzzy
+msgid "Erstelle alle erforderlichen Taxonomiebegriffe."
+msgstr "Creare tutti i termini della tassonomia necessari."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:324
+#, fuzzy
+msgid "Weise dieser Kategorie Beiträge zu"
+msgstr "Saggio di questa categoria contributi a"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:337
+#, fuzzy
+msgid "Weise diese Kategorie den importierten Beiträgen zu."
+msgstr "Assegnare questa categoria ai contributi importati."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:342
+#, fuzzy
+msgid "Füge diese Tags zu den Beiträgen hinzu"
+msgstr "Aggiungi questi tag ai messaggi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:346
+#, fuzzy
+msgid "Gib eine durch Kommas getrennte Liste der hinzuzufügenden Tags ein."
+msgstr "Inserire un elenco separato da virgole di tag da aggiungere."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:362
+#, fuzzy
+msgid "Beiträge Filtern"
+msgstr "Filtrare i contributi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:366
+#, fuzzy
+msgid "Füge Beiträge hinzu, die (separate Wörter mit Kommas) enthalten"
+msgstr "Aggiungere messaggi che contengono (separare le parole con le virgole)"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:370
+#, fuzzy
+msgid "Alle diese Wörter"
+msgstr "Tutte queste parole"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:374
+#, fuzzy
+msgid ""
+"Ein zu importierender Beitrag muss ALLE diese Wörter im Titel oder Inhalt "
+"enthalten."
+msgstr ""
+"Un post per essere importato deve contenere TUTTE queste parole nel titolo o "
+"nel contenuto."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:379
+#, fuzzy
+msgid "Eines dieser Wörter"
+msgstr "Una di queste parole"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:383
+#, fuzzy
+msgid ""
+"Ein zu importierender Beitrag muss eines dieser Wörter im Titel oder Inhalt "
+"enthalten."
+msgstr ""
+"Un post per essere importato deve contenere una di queste parole nel titolo "
+"o nel contenuto."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:388
+#, fuzzy
+msgid "Die genaue Phrase"
+msgstr "La frase esatta"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:392
+#, fuzzy
+msgid ""
+"Ein zu importierender Beitrag muss genau diesen Ausdruck im Titel oder "
+"Inhalt haben."
+msgstr ""
+"Un post da importare deve avere esattamente questa espressione nel titolo o "
+"nel contenuto."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:397
+#, fuzzy
+msgid "Keines dieser Wörter"
+msgstr "Nessuna di queste parole"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:401
+#, fuzzy
+msgid ""
+"Ein zu importierender Beitrag darf KEINES dieser Wörter im Titel oder Inhalt "
+"enthalten."
+msgstr ""
+"Un post da importare NON deve contenere nessuna di queste parole nel titolo "
+"o nel contenuto."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:407
+#, fuzzy
+msgid "Regelmäßigen Ausdruck abgleichen"
+msgstr "Calibrare la stampa regolare"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:411
+#, fuzzy
+msgid "Verwende das \"|\" ODER-Operator zum Kombinieren mehrerer Ausdrücke."
+msgstr "Utilizzare l'operatore OR \"|\" per combinare più espressioni."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:413
+#, fuzzy
+msgid ""
+"Verwende die <a href=\"http://www.php.net/manual/en/reference.pcre.pattern."
+"syntax.php\">PCRE-Mustersyntax </a> für Deinen regulären Ausdruck, "
+"einschließlich Trennzeichen und Escapezeichen."
+msgstr ""
+"Utilizzare la <a href=\"http://www.php.net/manual/en/reference.pcre.pattern."
+"syntax.php\">sintassi dei modelli PCRE </a> per l'espressione regolare, "
+"compresi i separatori e gli escape."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:418
+#, fuzzy
+msgid "Alle diese Tags"
+msgstr "Tutti questi tag"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:422
+#, fuzzy
+msgid ""
+"Ein zu importierender Beitrag muss mit einer dieser Kategorien oder Tags "
+"gekennzeichnet sein."
+msgstr ""
+"Un post da importare deve essere contrassegnato da una di queste categorie o "
+"tag."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:424
+#, fuzzy
+msgid "Tags sollten durch Kommas getrennt werden"
+msgstr "I tag devono essere separati da virgole"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:441
+#, fuzzy
+msgid "Auszüge zeigen"
+msgstr "Mostra estratti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:445
+#, fuzzy
+msgid "Verwende den vollständigen Beitrag oder einen Auszug"
+msgstr "Utilizzate il post completo o un estratto"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:448
+#, fuzzy
+msgid "Verwende vollen Beitrag"
+msgstr "Usa il post completo"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:450
+#, fuzzy
+msgid "Verwende Auszug"
+msgstr "Utilizzare l'estratto"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:452
+#, fuzzy
+msgid ""
+"Verwende den vollständigen Beitrag (falls verfügbar) oder erstelle einen "
+"Auszug."
+msgstr "Utilizzate l'intero post (se disponibile) o create un estratto."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:457
+#, fuzzy
+msgid "Für Auszüge verwenden"
+msgstr "Utilizzo per estratti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:464
+#, fuzzy
+msgid "Wörter"
+msgstr "Parole"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:466
+#, fuzzy
+msgid "Sätze"
+msgstr "Frasi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:468
+#, fuzzy
+msgid "Absätze"
+msgstr "Tacchi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:470
+#, fuzzy
+msgid "Gib die Größe des zu erstellenden Auszugs an (falls ausgewählt)."
+msgstr "Specificare le dimensioni dell'estratto da creare (se selezionato)."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:475
+#, fuzzy
+msgid "Link zur Originalquelle"
+msgstr "Link alla fonte originale"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:479
+#, fuzzy
+msgid ""
+"Wenn Du einen Link zur Originalquelle erstellen möchtest, gib hier einen "
+"Ausdruck ein, der verwendet werden soll."
+msgstr ""
+"Se si desidera creare un collegamento alla fonte originale, inserire qui "
+"un'espressione da utilizzare."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:483
+#, fuzzy
+msgid "Stelle sicher, dass Suchmaschinen diesem Link nicht folgen"
+msgstr "Assicurarsi che i motori di ricerca non seguano questo link"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:488
+#, fuzzy
+msgid "Öffne diesen Link in einem neuen Fenster"
+msgstr "Aprire questo link in una nuova finestra"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:505
+#, fuzzy
+msgid "Feed Verarbeitung"
+msgstr "Lavorazione dei mangimi"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:509
+#, fuzzy
+msgid "Importiere die neuesten"
+msgstr "Importazione dell'ultima versione"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:512
+#, fuzzy
+msgid "Beiträge."
+msgstr "Contributi."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:515
+#, fuzzy
+msgid "hinzugefügte Beiträge."
+msgstr "contributi aggiunti."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:519
+#, fuzzy
+msgid ""
+"Du kannst festlegen, dass nur eine bestimmte Anzahl neuer Beiträge "
+"importiert wird und nicht so viele, wie das Plugin verwalten kann."
+msgstr ""
+"È possibile specificare che venga importato solo un certo numero di nuovi "
+"post e non tutti quelli che il plugin può gestire."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:524
+#, fuzzy
+msgid "Verarbeite diesen Feed"
+msgstr "Elaborare questo mangime"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:528
+#, fuzzy
+msgid "Nie (Pause)"
+msgstr "Mai (pausa)"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:531
+#, fuzzy
+msgid "alle 5 Minuten"
+msgstr "ogni 5 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:533
+#, fuzzy
+msgid "alle 10 Minuten"
+msgstr "ogni 10 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:535
+#, fuzzy
+msgid "alle 15 Minuten"
+msgstr "ogni 15 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:537
+#, fuzzy
+msgid "alle 20 Minuten"
+msgstr "ogni 20 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:539
+#, fuzzy
+msgid "alle 25 Minuten"
+msgstr "ogni 25 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:542
+#, fuzzy
+msgid "alle 30 Minuten"
+msgstr "ogni 30 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:544
+#, fuzzy
+msgid "jede Stunde"
+msgstr "ogni ora"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:546
+#, fuzzy
+msgid "alle 1 Stunde 30 Minuten"
+msgstr "ogni 1 ora e 30 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:548
+#, fuzzy
+msgid "alle 2 Stunden"
+msgstr "ogni 2 ore"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:550
+#, fuzzy
+msgid "alle 2 Stunden 30 Minuten"
+msgstr "ogni 2 ore e 30 minuti"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:552
+#, fuzzy
+msgid "alle 5 Stunden"
+msgstr "ogni 5 ore"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:554
+#, fuzzy
+msgid "jeden Tag"
+msgstr "ogni giorno"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:556
+#, fuzzy
+msgid ""
+"Stelle die Zeitverzögerung für die Verarbeitung dieses Feeds ein. "
+"Unregelmäßig aktualisierte Feeds müssen nicht sehr oft überprüft werden."
+msgstr ""
+"Impostare il tempo di ritardo per l'elaborazione di questo feed. I feed "
+"aggiornati in modo irregolare non devono essere controllati molto spesso."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:561
+#, fuzzy
+msgid "Beginnt ab"
+msgstr "A partire da"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:584
+#, fuzzy
+msgid ""
+"Lege das Datum fest, ab dem Sie mit der Verarbeitung von Posts beginnen "
+"möchtest."
+msgstr ""
+"Impostare la data a partire dalla quale si desidera iniziare a elaborare i "
+"messaggi."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:589
+#, fuzzy
+msgid "Ende am"
+msgstr "Fine a"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:612
+#, fuzzy
+msgid ""
+"Lege das Datum fest, an dem die Verarbeitung von Beiträgen aus diesem Feed "
+"beendet werden soll."
+msgstr ""
+"Impostare la data in cui interrompere l'elaborazione dei post di questo feed."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:617
+#, fuzzy
+msgid "SSL-Überprüfung erzwingen"
+msgstr "Forzare la verifica SSL"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:622
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:632
+msgid "Nein"
+msgstr "No"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:624
+#, fuzzy
+msgid ""
+"Wenn Du SSL-Fehler erhältst oder Dein Feed ein selbstsigniertes SSL-"
+"Zertifikat verwendet, setze dieses auf <strong>Nein</strong>."
+msgstr ""
+"Se si ricevono errori SSL o se il feed utilizza un certificato SSL "
+"autofirmato, impostare questa opzione su <strong>No.</strong>"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:629
+#, fuzzy
+msgid "Duplikate überschreiben"
+msgstr "Sovrascrivere i duplicati"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:636
+#, fuzzy
+msgid ""
+"Wähle Ja, wenn Du zuvor importierte Elemente mit dem neuen Inhalt "
+"überschreiben möchtest. Andernfalls werden Duplikate übersprungen."
+msgstr ""
+"Selezionare Sì se si desidera sovrascrivere gli elementi importati in "
+"precedenza con il nuovo contenuto. In caso contrario, i duplicati verranno "
+"saltati."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:49
+#, fuzzy
+msgid "RSS AutoBlog Feeds"
+msgstr "Feed RSS AutoBlog"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:50
+#, fuzzy
+msgid "Neuen Feed hinzufügen"
+msgstr "Aggiungere un nuovo feed"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:79
+#, fuzzy
+msgid "Der Feed wurde erfolgreich erstellt."
+msgstr "Il feed è stato creato con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:81
+#, fuzzy
+msgid "Der Feed wurde nicht erstellt."
+msgstr "Il feed non è stato creato."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:87
+#, fuzzy
+msgid "Der Feed wurde erfolgreich aktualisiert."
+msgstr "Il feed è stato aggiornato con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:89
+#, fuzzy
+msgid "Der Feed wurde nicht aktualisiert."
+msgstr "Il feed non è stato aggiornato."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:94
+#, fuzzy
+msgid "Die Feeds wurden erfolgreich gelöscht."
+msgstr "I feed sono stati eliminati con successo."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:98
+#, fuzzy
+msgid ""
+"Die Feeds wurden erfolgreich verarbeitet. Besuche das RSS Autoblog-Dashboard "
+"für Details."
+msgstr ""
+"I feed sono stati elaborati con successo. Visitate il cruscotto RSS Autoblog "
+"per i dettagli."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:102
+#, fuzzy
+msgid ""
+"Die Verarbeitung der Feeds wurde im Hintergrund gestartet. Besuche das RSS "
+"Autoblog-Dashboard für Details."
+msgstr ""
+"L'elaborazione dei feed è iniziata in background. Per maggiori dettagli, "
+"visitate il cruscotto RSS Autoblog."
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:114
+#, fuzzy
+msgid "Problem bei der Kommunikation mit WP_CRON: "
+msgstr "Problema di comunicazione con WP_CRON:"
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:119
+#, fuzzy
+msgid ""
+"Die Cron-Verarbeitungsdatei \"wp-cron.php\" kann nicht über den Code "
+"erreicht werden. Dies kann daran liegen, dass Deine Firewall lokale Loopback-"
+"Aufrufe blockiert.\n"
+"\t\t\t\t\t<br />Möglicherweise kannst Du die Firewall umgehen, indem Du "
+"diese Zeile zu Deiner Datei wp-config.php hinzufügen.\n"
+"\t\t\t\t\t<p><code>define(\"ALTERNATE_WP_CRON\", true);</code></p>\n"
+"\t\t\t\t\tWenn das Problem dadurch nicht behoben wird, deaktiviere Cron und "
+"aktiviere die Methode \"pageload\" durch Hinzufügen von\n"
+"\t\t\t\t\t<p><code>\t\tdefine( \"AUTOBLOG_PROCESSING_METHOD\", "
+"\"pageload\" );</code></p>zur wp-config.php"
+msgstr ""
+"Il file di elaborazione cron \"wp-cron.php\" non può essere raggiunto dal "
+"codice. Questo potrebbe essere dovuto al fatto che il firewall blocca le "
+"chiamate di loopback locale.\n"
+"\t\t\t\t\t<br />È possibile aggirare il firewall aggiungendo questa riga al "
+"file wp-config.php.\n"
+"\t\t\t\t\t<p><code>define(\"ALTERNATE_WP_CRON\", true);</code></p>\n"
+"\t\t\t\t\tSe questo non risolve il problema, disabilitare cron e abilitare "
+"il metodo pageload aggiungendo\n"
+"\t\t\t\t\t<p><code>\t\tdefine(\"AUTOBLOG_PROCESSING_METHOD\", \"pageload\" );"
+"</code></p>a wp-config.php"
+
+#: autoblogincludes/classes/Autoblog/Table.php:43
+#, fuzzy
+msgid "Search"
+msgstr "Ricerca"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:74
+#, fuzzy
+msgid "Netzwerkweit aktiv"
+msgstr "Attivo a livello di rete"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:119
+msgid "Erstellt von"
+msgstr "Created by"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:136
+#, fuzzy
+msgid "Erweiterung"
+msgstr "Estensione"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:137
+msgid "Beschreibung"
+msgstr "Descrizione"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:182
+msgid "Alle"
+msgstr "Tutti"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:189
+msgid "Aktiv"
+msgstr "Attivo"
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:196
+msgid "Inaktiv"
+msgstr "Inattivo"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:58
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:123
+msgid "unbekannt"
+msgstr "sconosciuta"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:77
+msgid "Klonen"
+msgstr "Clone"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:94
+#, fuzzy
+msgid "Überprüfen"
+msgstr "Controllo"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:208
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:239
+#, fuzzy
+msgid "Niemals"
+msgstr "Mai"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:278
+#, fuzzy
+msgid "Ziel Blog"
+msgstr "Blog di destinazione"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:281
+#, fuzzy
+msgid "Beitrags-Typ"
+msgstr "Tipo di contributo"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:282
+#, fuzzy
+msgid "Zuletzt verarbeitet"
+msgstr "Ultimo elaborato"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:283
+#, fuzzy
+msgid "Nächster Check"
+msgstr "Prossimo controllo"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:300
+#, fuzzy
+msgid "jetzt"
+msgstr "ora"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:307
+#, fuzzy
+msgid "Jetzt gerade"
+msgstr "Ora solo"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:311
+#, fuzzy
+msgid "Vor 1 Minute"
+msgstr "1 minuto fa"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:315
+#, fuzzy
+msgid " Minuten zuvor"
+msgstr " Minuti prima"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:319
+#, fuzzy
+msgid "vor 1 Stunde"
+msgstr "1 ora fa"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:323
+#, fuzzy
+msgid " Stunden zuvor"
+msgstr " Ore prima"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:328
+msgid "Gestern"
+msgstr "Leri"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:332
+#, fuzzy
+msgid " Tage zuvor"
+msgstr " Giorni precedenti"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:336
+#, fuzzy
+msgid " Wochen zuvor"
+msgstr " Settimane prima"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:340
+#, fuzzy
+msgid "letzten Monat"
+msgstr "il mese scorso"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:350
+#, fuzzy
+msgid "in einer Minute"
+msgstr "in un minuto"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:354
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:362
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:378
+#, fuzzy
+msgid "in "
+msgstr "in"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:354
+#, fuzzy
+msgid " Minuten"
+msgstr " Verbale"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:358
+#, fuzzy
+msgid "in einer Stunde"
+msgstr "in un'ora"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:362
+#, fuzzy
+msgid " Stunden"
+msgstr " Orario"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:366
+#, fuzzy
+msgid "Morgen"
+msgstr "Domani"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:374
+#, fuzzy
+msgid "nächste Woche"
+msgstr "la prossima settimana"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:378
+#, fuzzy
+msgid " Wochen"
+msgstr " Settimane"
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:382
+#, fuzzy
+msgid "nächsten Monat"
+msgstr "il mese prossimo"
+
+#: autoblogincludes/classes/PSOURCE/Help/Tooltips.php:314
+#, fuzzy
+msgid "Help"
+msgstr "Aiuto"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:56
+#, fuzzy
+msgid "View details"
+msgstr "Visualizza i dettagli"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:79
+#, fuzzy, php-format
+msgid "Weitere Informationen zu %s"
+msgstr "Ulteriori informazioni su %s"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:130
+#, fuzzy
+msgid "Auf neuere Version prüfen"
+msgstr "Verificare la presenza di una versione più recente"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:217
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid "Keine neuere Version von %s im PSOURCE REPO gefunden."
+msgstr "Non è stata trovata una versione più recente di %s in PSOURCE REPO."
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:219
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid "Im PSOURCE REPO ist eine <b>neuere Version von %s</b> verfügbar!."
+msgstr "Una <b>versione più recente di %s</b> è disponibile nel PSOURCE REPO!"
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:221
+#, fuzzy, php-format
+msgctxt "the plugin title"
+msgid ""
+"Entschuldige, es konnte nicht festgestellt werden, ob Updates für %s "
+"verfügbar sind."
+msgstr ""
+"Spiacente, non è stato possibile determinare se sono disponibili "
+"aggiornamenti per %s."
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:227
+#, fuzzy, php-format
+msgid "Unbekannter PSOURCE-UPDATTER-Status \"%s\""
+msgstr "Stato PSOURCE-UPDATTER sconosciuto \"%s\""
+
+#: psource/psource-plugin-update/Puc/v5p0/Vcs/PluginUpdateChecker.php:98
+#, fuzzy
+msgid "There is no changelog available."
+msgstr "Non è disponibile un changelog."
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://github.com/Power-Source/piestingtal-source-project/rss-autoblog/"
+msgstr "https://github.com/Power-Source/piestingtal-source-project/rss-autoblog/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Dieses Plugin veröffentlicht automatisch Inhalte aus RSS-Feeds in "
+"verschiedenen Blogs auf Deiner WordPress Seite oder in Deiner Multisite..."
+msgstr ""
+"Questo plugin pubblica automaticamente i contenuti dei feed RSS sui vari "
+"blog del vostro sito WordPress o del vostro sito multiplo...."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "PSOURCE"
+msgstr "PSOURCE"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://github.com/Power-Source"
+msgstr "https://github.com/Power-Source"

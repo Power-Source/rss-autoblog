@@ -1,0 +1,1170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RSS AutoBlog\n"
+"POT-Creation-Date: 2023-10-12 19:40+0200\n"
+"PO-Revision-Date: 2023-10-12 19:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: autoblogpremium.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: psource\\psource-plugin-update\\vendor\n"
+
+#: autoblogincludes/addons/appendtexttopost.php:61
+msgid "Fußzeilentext posten"
+msgstr ""
+
+#: autoblogincludes/addons/appendtexttopost.php:62
+msgid "Du kannst die folgenden Platzhalter in der Fußzeile verwenden:"
+msgstr ""
+
+#: autoblogincludes/addons/appendtexttopost.php:74
+msgid "Füge Text zum Posten von Inhalten hinzu"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:49
+msgid "Importiere keine vorgestellten Bilder"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:50
+msgid "Medien verwenden: Miniaturansicht eines Feedelements"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:51
+#: autoblogincludes/addons/youtube.addon.php:56
+msgid "Verwende das Basis-Tag eines Feed-Elements"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:52
+msgid "Suche das erste Bild im Inhalt eines Feedelements"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:53
+msgid "Suche das letzte Bild im Inhalt eines Feedelements"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:82
+msgid "Wähle Standardbild"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:83
+msgid "Lösche Bild"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:88
+msgid "Empfohlenes Bild-Import"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:91
+msgid "Wähle eine Möglichkeit zum Importieren eines ausgewählten Bildes"
+msgstr ""
+
+#: autoblogincludes/addons/cacheandfeatureimages.php:92
+msgid "Standard-Miniaturbild"
+msgstr ""
+
+#: autoblogincludes/addons/check.feedentries.php:13
+msgid "Feed Check"
+msgstr ""
+
+#: autoblogincludes/addons/check.feedentries.php:24
+msgid "Ok"
+msgstr ""
+
+#: autoblogincludes/addons/check.feedentries.php:25
+msgid "Problem"
+msgstr ""
+
+#: autoblogincludes/addons/disablesainitization.php:74
+#: autoblogincludes/addons/disablesainitization.php:77
+msgid "Deaktiviere die Feedbereinigung"
+msgstr ""
+
+#: autoblogincludes/addons/disablesainitization.php:79
+msgid ""
+"Deaktiviere die Bereinigung von Feed-Inhalten nur, wenn Du weisst, was Du "
+"tust, oder wenn Du Dich auf den Feed-Inhalt verlassen kannst."
+msgstr ""
+
+#: autoblogincludes/addons/feed-clearposts.php:44
+#, php-format
+msgid "%d Beiträge wurden gelöscht"
+msgstr ""
+
+#: autoblogincludes/addons/feed-clearposts.php:80
+msgid "Beiträge löschen"
+msgstr ""
+
+#: autoblogincludes/addons/feed-clearposts.php:83
+msgid "Lösche alle von diesem Feed importierten Beiträge"
+msgstr ""
+
+#: autoblogincludes/addons/feed-clearposts.php:84
+msgid "Aufräumen"
+msgstr ""
+
+#: autoblogincludes/addons/forcefeed.php:78
+msgid "Erzwinge Feed"
+msgstr ""
+
+#: autoblogincludes/addons/forcefeed.php:81
+msgid "Aktiviere Feed erzwingen"
+msgstr ""
+
+#: autoblogincludes/addons/originallinkinpopup.php:122
+msgid "Möchtest Du diese Funktion für diesen Feed deaktivieren?"
+msgstr ""
+
+#: autoblogincludes/addons/originallinkinpopup.php:123
+msgid ""
+"Domain, die Du ausschließen möchtest, getrennt nach Zeilen (ohne \"http(s)://"
+"\")"
+msgstr ""
+
+#: autoblogincludes/addons/originallinkinpopup.php:126
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:620
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:634
+msgid "Ja"
+msgstr ""
+
+#: autoblogincludes/addons/originallinkinpopup.php:129
+msgid "Öffne den Link im Popup"
+msgstr ""
+
+#: autoblogincludes/addons/post.formats.php:39
+msgid "Beitragsformat für neue Beiträge"
+msgstr ""
+
+#: autoblogincludes/addons/post.formats.php:53
+msgid "Wähle das Beitrags-Format"
+msgstr ""
+
+#: autoblogincludes/addons/stripimages.php:72
+msgid "Bilder entaggen"
+msgstr ""
+
+#: autoblogincludes/addons/stripimages.php:75
+msgid "Bild-Tags entfernen"
+msgstr ""
+
+#: autoblogincludes/addons/stripimages.php:80
+msgid "Ersetzen mit"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:49
+#: autoblogincludes/addons/twitter.addon.php:52
+msgid "Tweet"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:51
+msgid "Tweets"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:53
+#: autoblogincludes/addons/twitter.addon.php:54
+msgid "Neuen Tweet hinzufügen"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:55
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:66
+msgid "Bearbeiten"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:56
+msgid "Tweet bearbeiten"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:57
+msgid "Neuer Tweet"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:58
+#: autoblogincludes/addons/twitter.addon.php:59
+msgid "Tweet anzeigen"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:60
+msgid "Tweets suchen"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:61
+msgid "Keine Tweets gefunden"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:62
+msgid "Keine Tweets im Papierkorb gefunden"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:63
+msgid "Übergeordneter Tweet"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:127
+msgid "Aktiviere Twitter für diesen Feed"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:129
+msgid "Verbraucherschlüssel"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:130
+msgid "Verbrauchergeheimnis"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:131
+msgid "Benutzer Anzeigename"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:135
+msgid ""
+"Um den Twitter Consumer Key & Secret Key zu erhalten, besuche bitte diese "
+"URL <a target=\"_blank\" href=\"https://apps.twitter.com/\">https://apps."
+"twitter.com/</a>, neue App erstellen. <br/>Nachdem die App erstellt wurde, "
+"besuche bitte die Registerkarte API-Schlüssel. Dort findest Du die "
+"Informationen"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:140
+msgid "Twitter Timeline"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:180
+msgid "Die neuesten Tweets auf Deiner Webseite"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:181
+msgid "Aktuelle Tweets"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:205
+msgid "Kürzliche Beiträge"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:220
+msgid " um "
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:257
+msgid "Title:"
+msgstr ""
+
+#: autoblogincludes/addons/twitter.addon.php:262
+msgid "Anzahl der anzuzeigenden Tweets:"
+msgstr ""
+
+#: autoblogincludes/addons/video.addon.php:80
+#: autoblogincludes/addons/video.addon.php:81
+msgid "Video Services"
+msgstr ""
+
+#: autoblogincludes/addons/youtube.addon.php:57
+msgid "Finde das erste Youtube-Video im Inhalt eines Feed-Elements"
+msgstr ""
+
+#: autoblogincludes/addons/youtube.addon.php:58
+msgid "Finde das letzte Youtube-Video im Inhalt eines Feed-Elements"
+msgstr ""
+
+#: autoblogincludes/addons/youtube.addon.php:78
+msgid "Youtube Video Importieren"
+msgstr ""
+
+#: autoblogincludes/addons/youtube.addon.php:81
+msgid "Wähle eine Möglichkeit zum Importieren von Youtube-Videos"
+msgstr ""
+
+#: autoblogincludes/addons/youtube.addon.php:82
+msgid "Youtube Iframe"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:90
+msgid "Datum"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:91
+msgid "Verarbeitete Feeds"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:92
+msgid "Importierte Artikel"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:93
+msgid "Fehler"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:105
+msgid "Wähle Standard-Miniaturansicht"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:106
+msgid "Wähle Miniaturansicht"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:128
+msgid "RSS AutoBlog"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:133
+msgid "RSS AutoBlog Dashboard"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:134
+msgid "Dashboard"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:138
+msgid "Alle Feeds"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:142
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:45
+msgid "RSS AutoBlog Erweiterungen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Backend.php:143
+msgid "Erweiterungen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Cron.php:353
+msgid "Keine Einträge im Feed gefunden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:63
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:102
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:96
+msgid "Aktivieren"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:64
+#: autoblogincludes/classes/Autoblog/Module/Page/Addons.php:103
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:85
+msgid "Deaktivieren"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:79
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:333
+msgid "Keine"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:133
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:88
+msgid "Verarbeiten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:134
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:105
+msgid "Löschen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Module/Page/Feeds.php:303
+msgid "Feed nicht gefunden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:68
+msgid "Die Erweiterung(en) wurde(n) erfolgreich aktiviert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:70
+msgid "Die Erweiterungen wurden nicht aktiviert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:76
+msgid "Die Erweiterung(en) wurde(n) erfolgreich deaktiviert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Addons/Table.php:78
+msgid "Die Erweiterungen wurden nicht deaktiviert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:56
+msgid "Autoblog Dashboard"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:57
+msgid "Protokoll exportieren"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:58
+msgid "Möchtest Du wirklich die Protokollsätze löschen?"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:59
+msgid "Protokoll löschen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:83
+msgid "Es wurden keine Protokolldatensätze gefunden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:178
+msgid "Die Anzahl der Fehler"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:208
+msgid "Die Häufigkeit, mit der die Feeds verarbeitet wurden"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:231
+msgid "Die Menge der importierten Artikel während des Tages."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:249
+msgid "Die Feed-URL ist ungültig und kann nicht verarbeitet werden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:261
+#, php-format
+msgctxt "{Post title} wurde bereits importiert."
+msgid "%s wurde bereits importiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:267
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:291
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:305
+msgid "Beitrag anzeigen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:273
+msgid "Das Feedelement enthält keine angeforderten Wörter oder Tags."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:278
+msgid "Import von Feedelementen fehlgeschlagen."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:285
+#, php-format
+msgctxt "{Post title} wurde erfolgreich importiert."
+msgid "%s wurde erfolgreich importiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:299
+#, php-format
+msgctxt "{Post title} wurde erfolgreich aktualisiert."
+msgid "%s wurde erfolgreich aktualisiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:313
+#, php-format
+msgid "%s Feedelement wurde importiert."
+msgid_plural "%s Feedelemente wurden importiert."
+msgstr[0] ""
+msgstr[1] ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:320
+msgid "Der Feed wurde übersprungen, da es zu früh ist, ihn zu verarbeiten."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:325
+msgid "Der Feed wurde übersprungen, da es zu spät ist, ihn zu verarbeiten."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:330
+msgid ""
+"Die Feedverarbeitung wurde beendet. Es wurden keine neuen Artikel importiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:378
+#, php-format
+msgctxt "... und wird regeneriert um {14:01:54} am {Wednesday, 25-Dec-13}."
+msgid ""
+"* Diese Seite wurde aus dem Cache entfernt und wird am %s um %s neu "
+"generiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:383
+msgid "* Diese Seite wurde aus dem Cache entfernt."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Dashboard/Page.php:386
+msgid "Generiere die Seite neu."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:69
+msgid "Bearbeite automatischen Blog-Feed"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:70
+msgid "Erstelle automatischen Blog-Feed"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:96
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:274
+msgid "Feed"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:113
+msgid "Abbrechen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:116
+msgid "Feed aktualisieren"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:116
+msgid "Feed erstellen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:138
+msgid "Feed Titel"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:142
+msgid "Gib dem Feed einen Namen."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:147
+msgid "Feed URL"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:151
+msgid "Gib die Feed-URL ein."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:160
+msgid "Beiträge hinzufügen zu"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:170
+msgid "Wähle einen Blog aus, zu dem der Beitrag hinzugefügt werden soll."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:181
+msgid "Beitragstyp für neue Beiträge"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:190
+msgid ""
+"Wähle den Beitragstyp aus, den die importierten Beiträge im Blog haben "
+"sollen."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:195
+msgid "Standardstatus für neue Beiträge"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:204
+msgid "Wähle den Status der importierten Beiträge im Blog aus."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:209
+msgid "Lege das Datum für neue Beiträge fest"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:213
+msgid "Importdatum"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:215
+msgid "Datum der ursprünglichen Beiträge"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:217
+msgid "Wähle das Datum aus, an dem importierte Beiträge angezeigt werden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:238
+msgid "Autorendetails"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:242
+msgid "Autor für neue Beiträge festlegen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:245
+msgid "Verwende den Feed-Autor"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:253
+msgid ""
+"Wähle den Autor aus, den Du für die Beiträge verwenden möchtest, oder "
+"versuche, den ursprünglichen Feed-Autor zu verwenden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:259
+msgid "Wenn der Autor im Feed nicht lokal vorhanden ist, verwende"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:269
+msgid ""
+"Wenn der Feed-Autor in Deinem Blog nicht vorhanden ist, verwende diesen "
+"Autor."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:298
+msgid "Taxonomien"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:302
+msgid "Feedkategorien behandeln als"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:317
+msgid "Füge alle hinzu, die nicht vorhanden sind."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:319
+msgid "Erstelle alle erforderlichen Taxonomiebegriffe."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:324
+msgid "Weise dieser Kategorie Beiträge zu"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:337
+msgid "Weise diese Kategorie den importierten Beiträgen zu."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:342
+msgid "Füge diese Tags zu den Beiträgen hinzu"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:346
+msgid "Gib eine durch Kommas getrennte Liste der hinzuzufügenden Tags ein."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:362
+msgid "Beiträge Filtern"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:366
+msgid "Füge Beiträge hinzu, die (separate Wörter mit Kommas) enthalten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:370
+msgid "Alle diese Wörter"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:374
+msgid ""
+"Ein zu importierender Beitrag muss ALLE diese Wörter im Titel oder Inhalt "
+"enthalten."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:379
+msgid "Eines dieser Wörter"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:383
+msgid ""
+"Ein zu importierender Beitrag muss eines dieser Wörter im Titel oder Inhalt "
+"enthalten."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:388
+msgid "Die genaue Phrase"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:392
+msgid ""
+"Ein zu importierender Beitrag muss genau diesen Ausdruck im Titel oder "
+"Inhalt haben."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:397
+msgid "Keines dieser Wörter"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:401
+msgid ""
+"Ein zu importierender Beitrag darf KEINES dieser Wörter im Titel oder Inhalt "
+"enthalten."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:407
+msgid "Regelmäßigen Ausdruck abgleichen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:411
+msgid "Verwende das \"|\" ODER-Operator zum Kombinieren mehrerer Ausdrücke."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:413
+msgid ""
+"Verwende die <a href=\"http://www.php.net/manual/en/reference.pcre.pattern."
+"syntax.php\">PCRE-Mustersyntax </a> für Deinen regulären Ausdruck, "
+"einschließlich Trennzeichen und Escapezeichen."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:418
+msgid "Alle diese Tags"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:422
+msgid ""
+"Ein zu importierender Beitrag muss mit einer dieser Kategorien oder Tags "
+"gekennzeichnet sein."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:424
+msgid "Tags sollten durch Kommas getrennt werden"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:441
+msgid "Auszüge zeigen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:445
+msgid "Verwende den vollständigen Beitrag oder einen Auszug"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:448
+msgid "Verwende vollen Beitrag"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:450
+msgid "Verwende Auszug"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:452
+msgid ""
+"Verwende den vollständigen Beitrag (falls verfügbar) oder erstelle einen "
+"Auszug."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:457
+msgid "Für Auszüge verwenden"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:464
+msgid "Wörter"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:466
+msgid "Sätze"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:468
+msgid "Absätze"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:470
+msgid "Gib die Größe des zu erstellenden Auszugs an (falls ausgewählt)."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:475
+msgid "Link zur Originalquelle"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:479
+msgid ""
+"Wenn Du einen Link zur Originalquelle erstellen möchtest, gib hier einen "
+"Ausdruck ein, der verwendet werden soll."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:483
+msgid "Stelle sicher, dass Suchmaschinen diesem Link nicht folgen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:488
+msgid "Öffne diesen Link in einem neuen Fenster"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:505
+msgid "Feed Verarbeitung"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:509
+msgid "Importiere die neuesten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:512
+msgid "Beiträge."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:515
+msgid "hinzugefügte Beiträge."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:519
+msgid ""
+"Du kannst festlegen, dass nur eine bestimmte Anzahl neuer Beiträge "
+"importiert wird und nicht so viele, wie das Plugin verwalten kann."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:524
+msgid "Verarbeite diesen Feed"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:528
+msgid "Nie (Pause)"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:531
+msgid "alle 5 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:533
+msgid "alle 10 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:535
+msgid "alle 15 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:537
+msgid "alle 20 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:539
+msgid "alle 25 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:542
+msgid "alle 30 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:544
+msgid "jede Stunde"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:546
+msgid "alle 1 Stunde 30 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:548
+msgid "alle 2 Stunden"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:550
+msgid "alle 2 Stunden 30 Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:552
+msgid "alle 5 Stunden"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:554
+msgid "jeden Tag"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:556
+msgid ""
+"Stelle die Zeitverzögerung für die Verarbeitung dieses Feeds ein. "
+"Unregelmäßig aktualisierte Feeds müssen nicht sehr oft überprüft werden."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:561
+msgid "Beginnt ab"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:584
+msgid ""
+"Lege das Datum fest, ab dem Sie mit der Verarbeitung von Posts beginnen "
+"möchtest."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:589
+msgid "Ende am"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:612
+msgid ""
+"Lege das Datum fest, an dem die Verarbeitung von Beiträgen aus diesem Feed "
+"beendet werden soll."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:617
+msgid "SSL-Überprüfung erzwingen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:622
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:632
+msgid "Nein"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:624
+msgid ""
+"Wenn Du SSL-Fehler erhältst oder Dein Feed ein selbstsigniertes SSL-"
+"Zertifikat verwendet, setze dieses auf <strong>Nein</strong>."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:629
+msgid "Duplikate überschreiben"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Form.php:636
+msgid ""
+"Wähle Ja, wenn Du zuvor importierte Elemente mit dem neuen Inhalt "
+"überschreiben möchtest. Andernfalls werden Duplikate übersprungen."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:49
+msgid "RSS AutoBlog Feeds"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:50
+msgid "Neuen Feed hinzufügen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:79
+msgid "Der Feed wurde erfolgreich erstellt."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:81
+msgid "Der Feed wurde nicht erstellt."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:87
+msgid "Der Feed wurde erfolgreich aktualisiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:89
+msgid "Der Feed wurde nicht aktualisiert."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:94
+msgid "Die Feeds wurden erfolgreich gelöscht."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:98
+msgid ""
+"Die Feeds wurden erfolgreich verarbeitet. Besuche das RSS Autoblog-Dashboard "
+"für Details."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:102
+msgid ""
+"Die Verarbeitung der Feeds wurde im Hintergrund gestartet. Besuche das RSS "
+"Autoblog-Dashboard für Details."
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:114
+msgid "Problem bei der Kommunikation mit WP_CRON: "
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Render/Feeds/Table.php:119
+msgid ""
+"Die Cron-Verarbeitungsdatei \"wp-cron.php\" kann nicht über den Code "
+"erreicht werden. Dies kann daran liegen, dass Deine Firewall lokale Loopback-"
+"Aufrufe blockiert.\n"
+"\t\t\t\t\t<br />Möglicherweise kannst Du die Firewall umgehen, indem Du "
+"diese Zeile zu Deiner Datei wp-config.php hinzufügen.\n"
+"\t\t\t\t\t<p><code>define(\"ALTERNATE_WP_CRON\", true);</code></p>\n"
+"\t\t\t\t\tWenn das Problem dadurch nicht behoben wird, deaktiviere Cron und "
+"aktiviere die Methode \"pageload\" durch Hinzufügen von\n"
+"\t\t\t\t\t<p><code>\t\tdefine( \"AUTOBLOG_PROCESSING_METHOD\", "
+"\"pageload\" );</code></p>zur wp-config.php"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table.php:43
+msgid "Search"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:74
+msgid "Netzwerkweit aktiv"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:119
+msgid "Erstellt von"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:136
+msgid "Erweiterung"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:137
+msgid "Beschreibung"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:182
+msgid "Alle"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:189
+msgid "Aktiv"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Addons.php:196
+msgid "Inaktiv"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:58
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:123
+msgid "unbekannt"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:77
+msgid "Klonen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:94
+msgid "Überprüfen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:208
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:239
+msgid "Niemals"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:278
+msgid "Ziel Blog"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:281
+msgid "Beitrags-Typ"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:282
+msgid "Zuletzt verarbeitet"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:283
+msgid "Nächster Check"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:300
+msgid "jetzt"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:307
+msgid "Jetzt gerade"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:311
+msgid "Vor 1 Minute"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:315
+msgid " Minuten zuvor"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:319
+msgid "vor 1 Stunde"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:323
+msgid " Stunden zuvor"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:328
+msgid "Gestern"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:332
+msgid " Tage zuvor"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:336
+msgid " Wochen zuvor"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:340
+msgid "letzten Monat"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:350
+msgid "in einer Minute"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:354
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:362
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:378
+msgid "in "
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:354
+msgid " Minuten"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:358
+msgid "in einer Stunde"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:362
+msgid " Stunden"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:366
+msgid "Morgen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:374
+msgid "nächste Woche"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:378
+msgid " Wochen"
+msgstr ""
+
+#: autoblogincludes/classes/Autoblog/Table/Feeds.php:382
+msgid "nächsten Monat"
+msgstr ""
+
+#: autoblogincludes/classes/PSOURCE/Help/Tooltips.php:314
+msgid "Help"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:56
+msgid "View details"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:79
+#, php-format
+msgid "Weitere Informationen zu %s"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:130
+msgid "Auf neuere Version prüfen"
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Keine neuere Version von %s im PSOURCE REPO gefunden."
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:219
+#, php-format
+msgctxt "the plugin title"
+msgid "Im PSOURCE REPO ist eine <b>neuere Version von %s</b> verfügbar!."
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:221
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"Entschuldige, es konnte nicht festgestellt werden, ob Updates für %s "
+"verfügbar sind."
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Plugin/Ui.php:227
+#, php-format
+msgid "Unbekannter PSOURCE-UPDATTER-Status \"%s\""
+msgstr ""
+
+#: psource/psource-plugin-update/Puc/v5p0/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/Power-Source/piestingtal-source-project/rss-autoblog/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Dieses Plugin veröffentlicht automatisch Inhalte aus RSS-Feeds in "
+"verschiedenen Blogs auf Deiner WordPress Seite oder in Deiner Multisite..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PSOURCE"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/Power-Source"
+msgstr ""
