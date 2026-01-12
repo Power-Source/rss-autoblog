@@ -133,28 +133,45 @@
 			$('.autoblog-log-feed').not($clickedFeed).each(function() {
 				$(this).find('.autoblog-log-feed-collapse-up').hide();
 				$(this).find('.autoblog-log-feed-collapse-down').show();
-			$(this).find('.autoblog-log-feed-records').slideUp(300);
+			$(this).find('.autoblog-log-feed-records').stop(true, true).slideUp(300);
 			});
 			
 			// Toggle the clicked feed
 			if (isOpen) {
 				$clickedFeed.find('.autoblog-log-feed-collapse-up').hide();
 				$clickedFeed.find('.autoblog-log-feed-collapse-down').show();
-			$records.slideUp(300);
+			$records.stop(true, true).slideUp(300);
 			} else {
 				$clickedFeed.find('.autoblog-log-feed-collapse-down').hide();
 				$clickedFeed.find('.autoblog-log-feed-collapse-up').show();
 				
-				const rows = $records.find('.autoblog-log-record');
-				if (rows.length > 0) {
-					const rowHeight = $(rows[0]).outerHeight();
-					const totalHeight = rows.length * rowHeight;
-					// Show up to 10 rows, max 500px
-					const maxHeight = Math.min(totalHeight, rowHeight * 10, 500);
-					$records.css('max-height', maxHeight + 'px');
+				// Robust height calculation even when hidden
+				const originalMax = $records.css('max-height');
+				const wasHidden = !$records.is(':visible');
+				// Remove max-height temporarily for measurement
+				$records.css('max-height', 'none');
+				if (wasHidden) {
+					$records.css({ position: 'absolute', visibility: 'hidden', display: 'block' });
 				}
 
-				$records.slideDown(300);
+				const rows = $records.find('.autoblog-log-record');
+				let rowHeight = rows.length ? $(rows[0]).outerHeight() : 0;
+				if (!rowHeight || rowHeight < 16) {
+					const sampleRow = $records.find('.autoblog-log-row').first();
+					const lineHeight = parseFloat(sampleRow.css('line-height')) || 20;
+					rowHeight = Math.max(rowHeight, lineHeight);
+				}
+
+				// Full content height
+				const fullHeight = $records.prop('scrollHeight') || (rows.length * rowHeight);
+				const targetMax = Math.min(fullHeight, rowHeight * 10, 500);
+
+				if (wasHidden) {
+					$records.css({ position: '', visibility: '', display: '' });
+				}
+				$records.css('max-height', targetMax + 'px');
+
+				$records.stop(true, true).slideDown(300);
 			}
 
 			// Safely redraw chart if it exists
