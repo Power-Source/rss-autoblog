@@ -380,12 +380,6 @@ function open_tooltip ($me) {
 	}
 <?php } ?>
 
-	// IE safeguard
-	if ($.browser.msie) {
-		var $pointer_left = $tip.find(".psource-left_pointer");
-		if ($pointer_left.length) $pointer_left.css("position", "absolute");
-	}
-
 	$tip
 		// Populate tip text
 		.find("#psource-tooltip-source")
@@ -417,21 +411,12 @@ function open_tooltip ($me) {
 function close_tooltip () {
 	if (!$("#psource-tooltip").length) return false;
 
-	// IE conditional alternate removal
-	if ($.browser.msie) {
-		$("#psource-tooltip").hide('fast');
-	} else {
-		// Not IE, do regular transparency animation
-		$("#psource-tooltip")
-			.animate({
-				"opacity": 0
-			},
-			'fast',
-			function () {
-				$(this).remove();
-			}
-		);
-	}
+	// Modern CSS transition-based removal
+	var $tooltip = $("#psource-tooltip");
+	$tooltip.addClass('psource-tooltip-closing');
+	setTimeout(function() {
+		$tooltip.remove();
+	}, 200); // Matches CSS transition duration
 }
 
 

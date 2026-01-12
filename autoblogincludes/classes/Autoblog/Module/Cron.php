@@ -758,7 +758,7 @@ class Autoblog_Module_Cron extends Autoblog_Module {
 		// post content
 		$content = apply_filters( 'autoblog_post_content_before_import', trim( html_entity_decode( $item->get_content(), ENT_QUOTES, 'UTF-8' ) ), $details, $item );
 		$length  = absint( $details['excerptnumber'] );
-		error_log('useexcerpt: ' . print_r($details['useexcerpt'], true) . ' excerptnumber: ' . print_r($details['excerptnumber'], true));
+// 		error_log('useexcerpt: ' . print_r($details['useexcerpt'], true) . ' excerptnumber: ' . print_r($details['excerptnumber'], true));
 		if ( intval($details['useexcerpt']) !== 1 && $length > 0 ) {
 			$delimiter = ' ';
 			switch ( $details['excerptnumberof'] ) {

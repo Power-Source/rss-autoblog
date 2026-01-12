@@ -3,11 +3,11 @@ layout: psource-theme
 title: "PS RSS AutoBlog"
 ---
 
-<h2 align="center" style="color:#38c2bb;">📚 PS RSS AutoBlog</h2>
+<h2 align="center" style="color:#38c2bb;">PS RSS AutoBlog</h2>
 
 <div class="menu">
-  <a href="https://github.com/Power-Source/rss-autoblog/discussions" style="color:#38c2bb;">💬 Forum</a>
-  <a href="https://github.com/Power-Source/rss-autoblog/releases" style="color:#38c2bb;">📝 Download</a>
+  <a href="https://github.com/Power-Source/rss-autoblog/releases" style="color:#38c2bb;">Download PS RSS AutoBlog</a>
+  <a href="https://power-source.github.io/ps-update-manager/" style="color:#38c2bb;">PSOURCE MANAGER</a>
 </div>
 
 Dieses Plugin veröffentlicht automatisch Inhalte aus RSS-Feeds in verschiedenen Blogs auf Deiner WordPress Seite oder in Deiner Multisite...
@@ -16,7 +16,7 @@ Dieses Plugin veröffentlicht automatisch Inhalte aus RSS-Feeds in verschiedenen
 
 Kein Code erforderlich. Keine komplizierten Anweisungen. Kopiere einfach eine Feed-URL und füge sie ein. Autoblog beginnt dann mit dem Importieren von Inhalten in Deinem Blog.
 
-![autoblog-add-feed-735x470](https://premium.wpmudev.org/wp-content/uploads/2009/08/autoblog-add-feed-735x470.jpg)
+![autoblog-add-feed-735x470](./assets/images/autoblog-add-feed.png)
     Starte einen Beitrags-Feed, um Inhalte aus mehreren Blogs an einem Ort zu teilen.
 
 ### Inhalte von überall
@@ -27,10 +27,10 @@ Plane regelmäßige Importe und sorge dafür, dass Dein Thread mit frischen, rel
 
 Veröffentliche jedes Mal die relevantesten Inhalte in Deinem Blog. Verwende Wort-, Phrasen-, Ausdrucks- und Tag-Filter, um zu steuern, welche Beiträge importiert werden. Lege Tags, Kategorien und benutzerdefinierte Autoreninformationen fest.
 
-![Auto-Blog-Stats-735x470](https://premium.wpmudev.org/wp-content/uploads/2009/08/Auto-Blog-Stats-735x470.jpg)
+![Auto-Blog-Stats-735x470](./assets/images/Auto-Blog-Stats.png)
     Verfolge die Feed-Aktivität von Deinem Dashboard aus mit dem enthaltenen Statistikmodul
 
-![autoblog-linkback](https://premium.wpmudev.org/wp-content/uploads/2009/08/autoblog-linkback.jpg)
+![autoblog-linkback](./assets/images/autoblog-linkback.png)
     Stelle Autoblog so ein, dass es auf den ursprünglichen Beitrag verlinkt.
 
 ### Ehre wem Ehre gebührt
@@ -41,7 +41,7 @@ Stelle Autoblog so ein, dass nur ein Auszug aus importierten Beiträgen veröffe
 
 Erweitere die Funktion, indem Du eines der 17 enthaltenen Add-ons aktivierst. Verbessere die Feed-Kompatibilität, importiere oder entferne Post-Bilder, verwende das Originalbild, WPML-Unterstützung, automatisches Tweeten, bette Videos aus einem YouTube-Feed ein – alles, was Du brauchst, in einem Plugin.
 
-![autoblog-addons](https://premium.wpmudev.org/wp-content/uploads/2009/08/autoblog-addons.jpg)
+![autoblog-addons](./assets/images/autoblog-addons.png)
     17 enthaltene Add-ons erleichtern die Verwaltung Deines Post-Feeds.
 
 Denke daran: Mit großer Macht geht große Verantwortung einher. Das Teilen von Inhalten sollte immer mit Genehmigung des Autors erfolgen.
@@ -52,13 +52,11 @@ Denke daran: Mit großer Macht geht große Verantwortung einher. Das Teilen von 
 
 Nach der Installation und Aktivierung siehst Du in Deinem Admin einen neuen Menüpunkt: Autoblog.
 
-![Autoblog-Menü](https://premium.wpmudev.org/wp-content/uploads/2009/08/autoblog-4030-menu.png) Beginnen wir diesen Überblick damit, ein Gefühl für die Berichtsfunktionen dieses Plugins zu bekommen.
+![Autoblog-Menü](./assets/images/autoblog-4030-menu.png) Beginnen wir diesen Überblick damit, ein Gefühl für die Berichtsfunktionen dieses Plugins zu bekommen.
 
 ### Berichtsfunktionen
 
 Klicke jetzt im Autoblog-Menü auf den Link „Dashboard“. Wenn Du Autoblog zum ersten Mal installierst, werden auf dieser Seite noch keine Daten angezeigt. Keine Sorge, wir regeln das im Handumdrehen!
-
-![Autoblog Dashboard Neu](https://premium.wpmudev.org/wp-content/uploads/2009/08/autoblog-4030-dashboard-new.png) Wenn Du jedoch gerade Deine Autoblog-Installation auf den neuesten Stand gebracht hast Version (4.0) solltest Du sehen, dass diese Seite bereits mit Daten aus Deinen aktuellen Feeds gefüllt ist.
 
 ![Autoblog-Dashboard aktualisiert](https://premium.wpmudev.org/wp-content/uploads/2009/08/autoblog-4040-dashboard-updated1.png) Die Grafik oben gibt Dir einen schnellen Überblick über die Autoblog-Aktivität im Laufe der letzten 7 Tage. Bewege den Mauszeiger über einen beliebigen Tag, um einige Details zu den Importen dieses Tages anzuzeigen.
 

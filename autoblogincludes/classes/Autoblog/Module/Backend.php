@@ -82,32 +82,33 @@ class Autoblog_Module_Backend extends Autoblog_Module {
 			wp_enqueue_style( 'dashicons' );
 			wp_enqueue_style( 'autoblog-bootstrap-glyphs', AUTOBLOG_ABSURL . 'css/bootstrap-glyphs.min.css', array(), '3.0.2' );
 
-			wp_enqueue_script( 'autoblog-google-jsapi', '//www.google.com/jsapi', null, null, true );
-			wp_enqueue_script( 'autoblog-dashboard', AUTOBLOG_ABSURL . 'js/dashboard.js', array( 'jquery', 'autoblog-google-jsapi' ), Autoblog_Plugin::VERSION, true );
+		// Chart.js - Modern chart library
+		wp_enqueue_script( 'chartjs', 'https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js', array(), '4.4.1', true );
+		wp_enqueue_script( 'autoblog-dashboard', AUTOBLOG_ABSURL . 'js/dashboard.js', array( 'jquery', 'chartjs' ), Autoblog_Plugin::VERSION, true );
 
-			wp_localize_script( 'autoblog-dashboard', 'autoblog', array(
-				'date_column'      => __( 'Datum', 'autoblogtext' ),
-				'processes_column' => __( 'Verarbeitete Feeds', 'autoblogtext' ),
-				'imports_column'   => __( 'Importierte Artikel', 'autoblogtext' ),
-				'errors_column'    => __( 'Fehler', 'autoblogtext' ),
-				'date'             => date( 'm-d-Y', current_time( 'timestamp' ) ),
-			) );
-		}
-
-		// feeds page scripts
-		if ( $page_hook == $this->_admin_pages['feeds'] ) {
-			wp_enqueue_script( 'autoblog-feeds', AUTOBLOG_ABSURL . 'js/feeds.js', array( 'jquery' ), Autoblog_Plugin::VERSION, true );
-			wp_localize_script( 'autoblog-feeds', 'autoblog', array(
-				'fileframe' => array(
-					'title' => __( 'Wähle Standard-Miniaturansicht', 'autoblogtext' ),
-					'button' => __( 'Wähle Miniaturansicht', 'autoblogtext' ),
-				),
-			) );
-		}
+		wp_localize_script( 'autoblog-dashboard', 'autoblog', array(
+			'date_column'      => __( 'Datum', 'autoblogtext' ),
+			'processes_column' => __( 'Verarbeitete Feeds', 'autoblogtext' ),
+			'imports_column'   => __( 'Importierte Artikel', 'autoblogtext' ),
+			'errors_column'    => __( 'Fehler', 'autoblogtext' ),
+			'date'             => date( 'm-d-Y', current_time( 'timestamp' ) ),
+		) );
 	}
 
-	/**
-	 * Registers admin menu items.
+	// feeds page scripts
+	if ( $page_hook == $this->_admin_pages['feeds'] ) {
+		wp_enqueue_script( 'autoblog-feeds', AUTOBLOG_ABSURL . 'js/feeds.js', array( 'jquery' ), Autoblog_Plugin::VERSION, true );
+		wp_localize_script( 'autoblog-feeds', 'autoblog', array(
+			'fileframe' => array(
+				'title' => __( 'Wähle Standard-Miniaturansicht', 'autoblogtext' ),
+				'button' => __( 'Wähle Miniaturansicht', 'autoblogtext' ),
+			),
+		) );
+	}
+}
+
+/**
+ * Registers admin menu items.
 	 *
 	 * @since 4.0.0
 	 * @action network_admin_menu
